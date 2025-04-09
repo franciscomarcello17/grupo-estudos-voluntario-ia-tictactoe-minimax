@@ -1,0 +1,14 @@
+C:\Users\franc\Documents\JogoDaVelhaMiniMax\JogoDaVelhaMiniMax\bin\Debug\net8.0\JogoDaVelhaMiniMax.exe
+C:\Users\franc\Documents\JogoDaVelhaMiniMax\JogoDaVelhaMiniMax\bin\Debug\net8.0\JogoDaVelhaMiniMax.deps.json
+C:\Users\franc\Documents\JogoDaVelhaMiniMax\JogoDaVelhaMiniMax\bin\Debug\net8.0\JogoDaVelhaMiniMax.runtimeconfig.json
+C:\Users\franc\Documents\JogoDaVelhaMiniMax\JogoDaVelhaMiniMax\bin\Debug\net8.0\JogoDaVelhaMiniMax.dll
+C:\Users\franc\Documents\JogoDaVelhaMiniMax\JogoDaVelhaMiniMax\bin\Debug\net8.0\JogoDaVelhaMiniMax.pdb
+C:\Users\franc\Documents\JogoDaVelhaMiniMax\JogoDaVelhaMiniMax\obj\Debug\net8.0\JogoDaVelhaMiniMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Documents\JogoDaVelhaMiniMax\JogoDaVelhaMiniMax\obj\Debug\net8.0\JogoDaVelhaMiniMax.AssemblyInfoInputs.cache
+C:\Users\franc\Documents\JogoDaVelhaMiniMax\JogoDaVelhaMiniMax\obj\Debug\net8.0\JogoDaVelhaMiniMax.AssemblyInfo.cs
+C:\Users\franc\Documents\JogoDaVelhaMiniMax\JogoDaVelhaMiniMax\obj\Debug\net8.0\JogoDaVelhaMiniMax.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\JogoDaVelhaMiniMax\JogoDaVelhaMiniMax\obj\Debug\net8.0\JogoDaVelhaMiniMax.dll
+C:\Users\franc\Documents\JogoDaVelhaMiniMax\JogoDaVelhaMiniMax\obj\Debug\net8.0\refint\JogoDaVelhaMiniMax.dll
+C:\Users\franc\Documents\JogoDaVelhaMiniMax\JogoDaVelhaMiniMax\obj\Debug\net8.0\JogoDaVelhaMiniMax.pdb
+C:\Users\franc\Documents\JogoDaVelhaMiniMax\JogoDaVelhaMiniMax\obj\Debug\net8.0\JogoDaVelhaMiniMax.genruntimeconfig.cache
+C:\Users\franc\Documents\JogoDaVelhaMiniMax\JogoDaVelhaMiniMax\obj\Debug\net8.0\ref\JogoDaVelhaMiniMax.dll

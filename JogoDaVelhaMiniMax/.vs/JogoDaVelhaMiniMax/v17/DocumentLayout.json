@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\Documents\\JogoDaVelhaMiniMax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FC688E-8663-4EBE-A526-08554C9917BE}|JogoDaVelhaMiniMax\\JogoDaVelhaMiniMax.csproj|c:\\users\\franc\\documents\\jogodavelhaminimax\\jogodavelhaminimax\\jogadoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3FC688E-8663-4EBE-A526-08554C9917BE}|JogoDaVelhaMiniMax\\JogoDaVelhaMiniMax.csproj|solutionrelative:jogodavelhaminimax\\jogadoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FC688E-8663-4EBE-A526-08554C9917BE}|JogoDaVelhaMiniMax\\JogoDaVelhaMiniMax.csproj|c:\\users\\franc\\documents\\jogodavelhaminimax\\jogodavelhaminimax\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3FC688E-8663-4EBE-A526-08554C9917BE}|JogoDaVelhaMiniMax\\JogoDaVelhaMiniMax.csproj|solutionrelative:jogodavelhaminimax\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FC688E-8663-4EBE-A526-08554C9917BE}|JogoDaVelhaMiniMax\\JogoDaVelhaMiniMax.csproj|c:\\users\\franc\\documents\\jogodavelhaminimax\\jogodavelhaminimax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3FC688E-8663-4EBE-A526-08554C9917BE}|JogoDaVelhaMiniMax\\JogoDaVelhaMiniMax.csproj|solutionrelative:jogodavelhaminimax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FC688E-8663-4EBE-A526-08554C9917BE}|JogoDaVelhaMiniMax\\JogoDaVelhaMiniMax.csproj|c:\\users\\franc\\documents\\jogodavelhaminimax\\jogodavelhaminimax\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3FC688E-8663-4EBE-A526-08554C9917BE}|JogoDaVelhaMiniMax\\JogoDaVelhaMiniMax.csproj|solutionrelative:jogodavelhaminimax\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jogo.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Documents\\JogoDaVelhaMiniMax\\JogoDaVelhaMiniMax\\Jogo.cs",
+              "RelativeDocumentMoniker": "JogoDaVelhaMiniMax\\Jogo.cs",
+              "ToolTip": "C:\\Users\\franc\\Documents\\JogoDaVelhaMiniMax\\JogoDaVelhaMiniMax\\Jogo.cs",
+              "RelativeToolTip": "JogoDaVelhaMiniMax\\Jogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:51:49.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JogadorIA.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Documents\\JogoDaVelhaMiniMax\\JogoDaVelhaMiniMax\\JogadorIA.cs",
+              "RelativeDocumentMoniker": "JogoDaVelhaMiniMax\\JogadorIA.cs",
+              "ToolTip": "C:\\Users\\franc\\Documents\\JogoDaVelhaMiniMax\\JogoDaVelhaMiniMax\\JogadorIA.cs",
+              "RelativeToolTip": "JogoDaVelhaMiniMax\\JogadorIA.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:51:29.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tabuleiro.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Documents\\JogoDaVelhaMiniMax\\JogoDaVelhaMiniMax\\Tabuleiro.cs",
+              "RelativeDocumentMoniker": "JogoDaVelhaMiniMax\\Tabuleiro.cs",
+              "ToolTip": "C:\\Users\\franc\\Documents\\JogoDaVelhaMiniMax\\JogoDaVelhaMiniMax\\Tabuleiro.cs",
+              "RelativeToolTip": "JogoDaVelhaMiniMax\\Tabuleiro.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:50:56.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Documents\\JogoDaVelhaMiniMax\\JogoDaVelhaMiniMax\\Program.cs",
+              "RelativeDocumentMoniker": "JogoDaVelhaMiniMax\\Program.cs",
+              "ToolTip": "C:\\Users\\franc\\Documents\\JogoDaVelhaMiniMax\\JogoDaVelhaMiniMax\\Program.cs",
+              "RelativeToolTip": "JogoDaVelhaMiniMax\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:28:11.046Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1171,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
