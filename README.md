@@ -1,6 +1,6 @@
 # Jogo da Velha com IA Minimax
 
-![Jogo da Velha com IA Minimax](./ia-tic-tac-toe-minimax-banner.png)
+![Jogo da Velha com IA Minimax](./)
 
 Este é um projeto de implementação do clássico jogo da velha (Tic Tac Toe) em C# que utiliza o algoritmo **Minimax** para criar uma Inteligência Artificial (IA) imbatível. O objetivo do projeto é demonstrar conceitos fundamentais de **inteligência artificial** e **teoria dos jogos**, oferecendo uma experiência interativa e educativa.
 
